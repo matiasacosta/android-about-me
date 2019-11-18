@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Matias Acosta</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Hola, mi nombre es Matías Acosta
+    \n\nMe encanta cantar
+    \n\nAca va un pedazo de una letra que me gusta
+    \nVen conmigo, el destino cambió
+    \nCon un beso mío, amor
+    \nDesnudemos de frío al sol
+    \nSi lo que sentimos es hoy
+    \nY será que sólo se es atento a lo que vendrá
+    \nSin dejar que algo empiece en realidad
+    \nCondicionar lo bello a algo estructural
+    \nGuardaré conmigo tu calor
+    \nTe deseo sin ninguna condición
+    \nY seré sutilmente acobijada en la espiral
+    \nQue no detecta entre principio ni final
+    \nSólo girará siempre para girar
+    \nReviviré el desastre permanente de enterrarte
+    \nY creer que no recuerdo cómo hallarte
+    \nEsclavizados cuando tus caprichos hablen
+    \nY al final sembraré las consecuencias de adorarte
+    \nPara que un día te coseche y pueda usarte
+    \nEn mil recetas que enamoren a otro alguien
+    \nVen conmigo, el destino cambió\n\n</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
